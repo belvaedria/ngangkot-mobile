@@ -1,0 +1,15 @@
+name: ngangkot
+description: Aplikasi Navigasi Ngangkot
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.2
+
+flutter:
+  uses-material-design: true
