@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.2
+  equatable: ^2.0.5
+  intl: ^0.18.0
 
 flutter:
   uses-material-design: true
