@@ -150,7 +150,7 @@ class GuideListPage extends StatelessWidget {
                     borderRadius: BorderRadius.circular(16),
                   ),
                   child: Icon(
-                    _getIconData(guide.icon),
+                    guide.icon,
                     size: 32,
                     color: iconColor,
                   ),

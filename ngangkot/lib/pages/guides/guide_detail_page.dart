@@ -116,7 +116,7 @@ class GuideDetailPage extends StatelessWidget {
                           ],
                         ),
                         child: Icon(
-                          _getIconData(guide.icon),
+                          guide.icon,
                           size: 60,
                           color: AppColors.white,
                         ),
